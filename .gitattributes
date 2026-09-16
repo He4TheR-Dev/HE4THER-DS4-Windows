@@ -1,0 +1,11 @@
+# This repo ships a C# / .NET (WPF) DS4Windows build.
+# Ignore helper web assets so GitHub Linguist does not label the repo as JavaScript.
+BezierCurveEditor/** linguist-vendored
+*.js linguist-vendored
+*.html linguist-vendored
+
+# Prefer documenting as C# / .NET project
+*.cs linguist-language=C#
+*.csproj linguist-language=C#
+*.dll linguist-language=C#
+*.exe linguist-language=C#
