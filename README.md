@@ -1,8 +1,12 @@
 ﻿# HE4THER DS4 Windows
 
-**Stack:** C# · .NET · WPF (pas Java).
+<p align="center">
+  <img src="assets/heather-ds4windows-preview.png" alt="He4TheR Services DS4Windows preview" width="900"/>
+</p>
 
-> **Custom build** of the legendary **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** â€” DualShock & DualSense, native on Windows.
+**Stack:** C# · .NET · WPF
+
+> **Custom build** of the legendary **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** — DualShock & DualSense, native on Windows.
 
 HE4THER DS4 Windows is a **custom edition** of official DS4Windows (base **v3.3.3**).  
 Same soul. Same engine. HE4THER polish on top â€” profiles, packaging, and branding ready for real play sessions.
