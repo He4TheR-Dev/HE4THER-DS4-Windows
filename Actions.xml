@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Special Actions Configuration Data. 09/04/2025 15:54:54 -->
+
+<Actions>
+  <Action Name="NO RECOIL-(L2R2)">
+    <Trigger>R2 Full Pull</Trigger>
+    <Type>Macro</Type>
+    <Details>301/301/301/301/301/301/301/301/284/302/284</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="AUTOPING-(L2R2)">
+    <Trigger>R2 Full Pull</Trigger>
+    <Type>Macro</Type>
+    <Details>267/350/267/350/267/350/267</Details>
+  </Action>
+  <Action Name="YY-(L3)">
+    <Trigger>L3</Trigger>
+    <Type>Macro</Type>
+    <Details>264/324/264/324/264/324/264</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+  <Action Name="YY-(R3)">
+    <Trigger>R3</Trigger>
+    <Type>Macro</Type>
+    <Details>264/324/264/324/264/324/264</Details>
+    <Extras>Repeat</Extras>
+  </Action>
+</Actions>

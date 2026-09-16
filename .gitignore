@@ -1,0 +1,21 @@
+# Runtime / local
+Logs/
+*.log
+Music/
+*.mp3
+*.wav
+*.flac
+
+# OS / IDE
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Secrets / local config overrides
+*.local.xml
+.env
+.env.*
