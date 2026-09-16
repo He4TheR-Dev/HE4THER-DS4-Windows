@@ -1,7 +1,7 @@
 ﻿# HE4THER DS4 Windows
 
 <p align="center">
-  <img src="assets/heather-ds4windows-preview.png" alt="He4TheR Services DS4Windows preview" width="900"/>
+  <img src="assets/heather-ds4windows-preview.png" alt="He4TheR Services DS4Windows preview" width="560"/>
 </p>
 
 **Stack:** C# · .NET · WPF
