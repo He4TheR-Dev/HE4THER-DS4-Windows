@@ -68,17 +68,19 @@ Official source & releases for v3.3.3: **[Ryochan7/DS4Windows](https://github.co
 
 ## License
 
-Licensed under the **GNU General Public License v3.0** â€” same family as late official DS4Windows releases.
+**Copyright (c) 2026 HE4THER DEV (He4TheR-Dev)**
 
-See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+Licensed under the **GNU General Public License v3.0** — same family as late official DS4Windows releases.
+
+See [LICENSE](LICENSE), [NOTICE](NOTICE), and [COPYRIGHT](COPYRIGHT).
 
 ---
 
 ## Credits
 
-**DS4Windows** â€” Scarlet.Crush, Jays2Kings, Ryochan7, and the entire community  
-**ViGEm** â€” Nefarius & contributors  
-**HE4THER edition** â€” [HE4THER DEV](https://github.com/He4TheR-Dev) (@He4TheR-Dev)
+**DS4Windows** — Scarlet.Crush, Jays2Kings, Ryochan7, and the entire community  
+**ViGEm** — Nefarius & contributors  
+**HE4THER edition** — Copyright (c) 2026 [HE4THER DEV](https://github.com/He4TheR-Dev) (@He4TheR-Dev)
 
 ---
 
